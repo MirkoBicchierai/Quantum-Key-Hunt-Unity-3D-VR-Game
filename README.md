@@ -10,7 +10,7 @@ The Unity version used for this project is 2022.3.38f1.
 
 Below are some screenshots and GIFs from the game (please note that the in-game visual quality in the headset is significantly higher than shown here).
 
-In the Media folder, you can also find a video showcase of the game.
+In the Media folder, you can also find a video showcase of the game. 
 
 <hr>
 
