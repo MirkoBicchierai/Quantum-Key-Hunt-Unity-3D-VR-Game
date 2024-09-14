@@ -15,7 +15,7 @@ In the Media folder, you can also find a video showcase of the game.
 <hr>
 
 <p align="center">
-  <img src="/Media/image21.png" height="300px"/>
+  <img src="/Media/image21.png" height="250px"/>
   <img src="/Media/image19.gif" height="300px"/>
 </p>
 
