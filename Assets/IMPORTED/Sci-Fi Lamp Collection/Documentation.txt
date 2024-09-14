@@ -1,0 +1,168 @@
+DOCUMENTATION
+
+The Sci-Fi Lamp Collection package contains a collection of many different detailed lamps. Many lamp prefabs are available in different colors. Thereby a total of 44 prefabs are available.
+A few lamps are modular so you can use individual parts of this lamps.
+The asset supports all three render pipelines (Builtin RP, URP and HDRP). 
+These high quality lamps are perfect for desktops, consoles and high end mobile devices.
+
+If you want to add more details you could use my "Screw Heads Pack - Free".
+https://assetstore.unity.com/packages/slug/170388
+
+Please note:
+
+When importing the asset to your project you only need to import the desired render pipeline folder (Builtin RP, URP, HDRP) and the General folder. The Demo folder is optional.
+If you switch between Builtin RP demo, URP demo and HDRP demo don‘t forget to remove or add the RenderPipelineAsset in Project Settings -> Graphics -> Scriptable Render Pipeline Settings. 
+If you want to use the URP or HDRP demo don't forget to install URP or HDRP from the package manager.
+
+You can find the RenderPipelineAsset in URP/URPResources
+and
+You can find the RenderPipelineAsset in HDRP/HDRPResources
+
+
+Texture resolution: 1024 x 1024, 2048 x 2048 and 4096 x 4096
+
+
+Included:
+
+- Prefabs for all lamps ready to use with Builtin RP, URP and HDRP.
+- Texture for all render pipelines. 
+- HDRP detail map and normal map textures are included in 2K and 4K.
+- Materials for Builtin RP, URP and HDRP.
+- Demo scene for Builtin RP, URP and HDRP.
+- 3D models.
+- Custom PBR shader for URP to use detail mask and detail textures in URP.
+
+Polygon counts:
+
+- Ball_Light_01_LP: 243
+- Ball_Light_01_HP: 698
+- Ceiling_Lamp_01: 528
+- Ceiling_Lamp_02_LP: 330
+- Ceiling_Lamp_02_HP: 1022
+- Ceiling_Lamp_03_LP: 171
+- Ceiling_Lamp_03_HP: 567
+- Ceiling_Lamp_04: 5900 - 6100
+- Ceiling_Lamp_04_LP: 5600 - 5800
+- Combat_Flashlight_01: 546
+- Construction_Lamp_01_HP: 2656
+- Construction_Lamp_01_LP: 1269
+- Corner_Lamp_01: 255
+- Corner_Lamp_01_LP: 89
+- Corner_Lamp_Small_01: 255
+- Corner_Lamp_Small_01_LP: 89
+- Desk_Lamp_01: Case_Top: 315,Case_Bottom: 315, Handle: 52, Light: 10
+- Floor_Lamp_01: Floor_Lamp_01_Cable: 848, Floor_Lamp_01_Mount: 257, Floor_Lamp_01_Light 248, Floor_Lamp_01_Fins: 35
+- Floor_Lamp_02: 2899
+- Floor_Lamp_02_LP: 1395
+- Floor_Lamp_03: 321
+- Floor_Lamp_04: 160
+- Floor_Lamp_05: 952
+- Floor_Lamp_06_HP: 573
+- Floor_Lamp_06_LP: 183
+- Floor_Lamp_07_HP: 742
+- Floor_Lamp_07_LP: 215
+- Floor_Lamp_08: 623
+- Floor_Lamp_09: 665
+- Floor_Lamp_09_LP: 255
+- Landing_Pad_Lamp_01: 718
+- Rounded_Wall_Lamp_01: 397
+- Tube_Lamp_01: 1056
+- Wall_Lamp_01: 576
+- Wall_Lamp_02: 245
+- Wall_Lamp_02_LP: 93
+- Wall_Lamp_03: 1027
+- Wall_Lamp_03_LP: 440
+- Survival_Flashlight_01: 594
+- Floor_Lamp_01_Cable_HP: 848
+- Floor_Lamp_01_Cable_LP: 376
+- Exploration_Lamp_01: 718
+- Exploration_Lamp_02: 2228
+- Exploration_Lamp_02_LP: 1418
+- Lamp_01: 3024
+- Lamp_01_LP: 1492
+
+If you have any questions or ideas please contact me:
+
+dirk.jacobasch@outlook.com
+https://forum.unity.com/threads/sci-fi-lamp-collection.1021615/
+
+
+Change log:
+
+Update 2.1
+
+Added a new lamp.
+
+New prefabs
+- Ceiling_Lamp_04
+- Ceiling_Lamp_04_LP
+- Individual parts for this lamp.
+
+
+Update 2.0:
+
+Added a new Lamp.
+Small optimizations.
+
+New prefabs:
+- Floor_Lamp_09
+- Floor_Lamp_09_LP
+
+
+Update 1.9:
+
+Added a new Lamp.
+- Floor_Lamp_02
+- Wall_Lamp_03
+
+Update 1.8:
+
+Added a new Lamp.
+- Floor_Lamp_08
+
+Update 1.7:
+
+Added a new Lamp.
+- Lamp_01
+- Lamp_01_LP
+- Changed folder structure
+
+Update 1.6:
+
+Added a new Lamps.
+- Construction_Lamp_01
+- Construction_Lamp_01_LP
+- Changed folder structure
+
+Update 1.5:
+
+Added a new Lamp.
+- Exploration_Lamp_01
+- Exploration_Lamp_02
+
+Update 1.4:
+
+Added a new Lamp.
+- Wall_Lamp_01
+
+Update 1.3
+
+Added a new Lamps.
+- Corner_Lamp_01
+- Corner_Lamp_Small_01
+- Floor_Lamp_07 in three colors (red, orange and black).
+
+
+Update 1.2
+
+Added a new Lamp.
+Construction_Lamp_01 in four colors (red, orange, blue and yellow).
+
+Added metallic alpha channel smoothness to the following lamps.
+Ceiling_Lamp_01
+Desk_Lamp_01
+Floor_Lamp_01
+Floor_Lamp_03
+Floor_Lamp_05
+Floor_Lamp_06
+Wall_Lamp_01
